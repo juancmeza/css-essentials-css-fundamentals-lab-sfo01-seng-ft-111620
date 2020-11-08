@@ -35,4 +35,6 @@ nav a {
   margin-right: 10px;
 }
 
-
+#details {
+  display: block;
+}
