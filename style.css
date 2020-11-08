@@ -37,9 +37,9 @@ nav a {
 
 #details {
   display: block;
-  background: red;
 }
 
 #details div {
   float: left;
+  background: red;
 }
