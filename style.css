@@ -22,7 +22,7 @@ header {
   text-align: center;
 }
 
-#featured-property p{
+#featured-property p {
   width: 800px;
   text-align: center;
   margin-left: auto;
@@ -33,5 +33,6 @@ nav a {
   background: grey;
   margin-left: 10px;
   margin-right: 10px;
-  
 }
+
+
