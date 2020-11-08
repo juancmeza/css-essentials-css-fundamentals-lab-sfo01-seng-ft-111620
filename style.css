@@ -37,6 +37,7 @@ nav a {
 
 #details {
   display: block;
+  background: red;
 }
 
 #details div {
